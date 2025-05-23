@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Singarenamrata
-- 👀 I’m interested in graphic designing and coding 
-- 🌱 I’m currently learning BCA(computer application)
+- 👀 I’m interested in cloud Computing and Python development
+- 🌱 I have recently completed my BBACA(computer application) degree in may 2025
 - 💞️ I’m looking to collaborate on startup projects and other MNCS 
 - 📫 How to reach me mail me on namratasingare257@gmail.com
 - 😄 Pronouns: namrata 
